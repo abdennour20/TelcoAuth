@@ -1,0 +1,6 @@
+@AuthTelco.API_HostAddress = http://localhost:5432
+
+GET {{AuthTelco.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

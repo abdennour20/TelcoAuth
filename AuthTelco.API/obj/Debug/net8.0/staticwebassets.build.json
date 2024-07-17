@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1hGyWWCgn627nbmKdpmx2hOT7lQeIFn4zKWLC8pkYv8=",
+  "Source": "AuthTelco.API",
+  "BasePath": "_content/AuthTelco.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
